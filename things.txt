@@ -1,0 +1,246 @@
+Name: Hariharan Venkatraman
+Current Title: Graduate Research Assistant
+Current Company/University: University at Buffalo, The State University of New York
+Location: Buffalo, New York, USA
+LinkedIn URL: https://www.linkedin.com/in/hariharan-venkatraman-19994b178/
+
+Summary/About:
+I am a passionate Robotics and Machine Learning Engineer pursuing my Master's in Engineering Science at the University at Buffalo. My work focuses on developing intelligent robotic systems using Deep Reinforcement Learning, ROS2, and real-time computer vision techniques. I have experience building scalable ML pipelines and deploying test automation frameworks for robotics applications. My mission is to create adaptive and autonomous machines that interact safely and intelligently in dynamic environments.
+
+💼 1. Graduate Research Assistant
+Job Title: Graduate Research Assistant
+Company: University at Buffalo
+Location: Buffalo, NY, USA
+Date Range: September 2024 – Present
+Tech Stack: Python, Deep Reinforcement Learning, Kubernetes, InfluxDB, Grafana, Git, Linux, Unix, CI/CD
+
+Summary Points:
+
+Developed Deep RL models achieving 25% improvement in network performance over baseline.
+
+Built ML pipelines on Kubernetes for scalable training and deployment.
+
+Created real-time model monitoring dashboards using InfluxDB and Grafana to reduce drift by 15%.
+
+Contributed to research documentation, troubleshooting, and performance analysis in a Unix/Linux environment.
+
+💼 2. Engineering Intern – Venkateshwara Fiber Glass
+Job Title: Engineering Intern
+Company: Venkateshwara Fiber Glass
+Location: India
+Date Range: May 2022 – August 2022
+Tech Stack: Composite Materials, Mechanical Testing, Quality Control, FRP, DFM, DFMEA
+
+Summary Points:
+
+Achieved 72% higher tensile strength and 142% better Young’s Modulus using the Infusion process.
+
+Performed extensive material testing (mechanical, flame resistance, water absorption).
+
+Improved quality control protocols and contributed to composite material optimization.
+
+💼 3. Engineering Intern – Sri Ram Industries
+Job Title: Engineering Intern – Raw Material Storage Optimization
+Company: Sri Ram Industries
+Location: India
+Date Range: September 2021 – November 2021
+Tech Stack: Lean Manufacturing, Six Sigma, DMAIC, 5S, Industrial Engineering
+
+Summary Points:
+
+Increased material handling efficiency by 10% and productivity by 12%.
+
+Reduced operational waste by 15% through Lean techniques.
+
+Standardized procedures to reach 95% compliance and cut errors by 20%.
+
+🧪 4. Full Stack Test Automation for Robotics Web Dashboard
+Job Title: Full Stack QA Automation Developer (Academic Project)
+Company: University at Buffalo
+Location: Buffalo, NY, USA
+Date Range: October 2024 – January 2025
+Tech Stack: Selenium, PyTest, GitHub Actions, CI/CD, REST API
+
+Summary Points:
+
+Built an end-to-end test automation framework for UI and API validation.
+
+Achieved 96% test coverage and reduced release bugs by 40%.
+
+Integrated with GitHub Actions to generate HTML reports during CI.
+
+🤖 5. Optimizing Robot Navigation in Dynamic Environments
+Job Title: Robotics Researcher – RL Navigation (Academic Project)
+Company: University at Buffalo
+Location: Buffalo, NY, USA
+Date Range: March 2024 – May 2024
+Tech Stack: Python, RVO2, ORCA, DQN with PER, A2C, Simulation
+
+Summary Points:
+
+Simulated complex 10x10 continuous spaces with RVO2 and ORCA policy.
+
+Implemented DQN + A2C to achieve 51% success rate in autonomous navigation.
+
+Focused on realistic path planning and collision avoidance.
+
+🏎️ 6. F1 Tenth Grand Prix
+Job Title: SLAM and Control Algorithm Developer (Academic Project)
+Company: University at Buffalo
+Location: Buffalo, NY, USA
+Date Range: January 2024 – May 2024
+Tech Stack: ROS2, Gap Follow, RRT, Pure Pursuit, SLAM
+
+Summary Points:
+
+Developed autonomous navigation algorithms for F1Tenth racing simulation.
+
+Focused on real-time obstacle avoidance and control at high speed.
+
+Enhanced vehicle localization and reactive planning performance.
+
+🛡️ 7. Industrial PPE Detection
+Job Title: Computer Vision Developer (Academic Project)
+Company: University at Buffalo
+Location: Buffalo, NY, USA
+Date Range: September 2023 – December 2023
+Tech Stack: YOLOv8, Roboflow, Ultralytics, Python, Deep Learning
+
+Summary Points:
+
+Built an 8-class PPE object detector with YOLOv8 integrated into real-time CCTV monitoring.
+
+Improved mAP by 5%, precision by 2.3%, and recall by 2.7%.
+
+Implemented live video prediction with alerts and noise filtering.
+
+🤖 8. Mobile Robot Navigation in Indoor Environment
+Job Title: Robotics Team Lead (Academic Project)
+Company: Anna University – MIT Campus
+Location: Chennai, India
+Date Range: August 2022 – May 2023
+Tech Stack: Arduino, IMU, Ultrasonic Sensors, Kalman Filter, Bluetooth, Python
+
+Summary Points:
+
+Led a 5-member team to design a mobile robot with 360° obstacle detection using mecanum wheels.
+
+Fused sensor data with Kalman filter to achieve ±0.24m localization accuracy.
+
+Built a Python-based real-time visualization system for obstacle mapping.
+
+🎓 1. Master of Science in Engineering Science – Robotics
+Degree: Master of Science in Engineering Science – Robotics
+Institution: University at Buffalo, The State University of New York
+Location: Buffalo, NY, USA
+Date Range: January 2024 – January 2025
+Summary Points:
+
+GPA: 3.926 / 4.0
+
+Graduate Research Assistant in Robotics & AI
+
+Focus: Deep Reinforcement Learning, Robotics Automation, Computer Vision
+
+🎓 2. Bachelor of Engineering in Production Engineering
+Degree: Bachelor of Engineering in Production Engineering
+Institution: Anna University – MIT Campus
+Location: Chennai, Tamil Nadu, India
+Date Range: August 2019 – May 2023
+Summary Points:
+
+GPA: 3.8 / 4.0
+
+Led multiple robotics-based academic projects
+
+Final Year Project: Indoor Navigation System for Mobile Robots using Sensor Fusion
+
+🧑‍💻 Category: Programming Languages
+Python – Used extensively for machine learning, robotics algorithms, automation, and scripting.
+
+C++ – Applied in robotics control systems and real-time performance-critical applications.
+
+MATLAB – Utilized for simulations and algorithm development in control systems and data analysis.
+
+Java – Used for backend development and software automation tasks.
+
+SQL – Basic data querying and manipulation in structured databases.
+
+HTML/CSS/JavaScript – Employed for front-end dashboard and web interface testing.
+
+Ladder Logic – Applied in PLC programming during industrial automation training.
+
+📚 Category: Frameworks & Libraries
+NumPy / Pandas – Core libraries for numerical computation and data manipulation in Python.
+
+OpenCV – Used for image processing and computer vision tasks like PPE detection.
+
+Scikit-learn – Utilized for traditional machine learning models and preprocessing.
+
+TensorFlow / PyTorch – Applied in deep learning model development and deployment.
+
+Gym – For reinforcement learning environment simulations.
+
+Hugging Face / JAX – For modern ML workflows and transformer-based models.
+
+ROS2 – For robotics simulation and communication between robotic systems.
+
+Matplotlib – Used for data visualization and model result plotting.
+
+🛠️ Category: Tools & Platforms
+Git / GitHub – Source control and CI integrations for test automation and collaboration.
+
+Docker / Kubernetes – For containerization and scalable deployment of ML pipelines.
+
+AWS SageMaker / EC2 – Cloud-based model training and inference.
+
+Simulink – For model-based design and simulations in engineering systems.
+
+Selenium / PyTest – For full-stack UI and API test automation.
+
+JIRA – Agile task tracking and project management.
+
+MS Excel – Data organization, engineering calculations, and analysis.
+
+💬 Category: Soft Skills
+Team Leadership – Led a 5-member team for mobile robot development with cross-functional responsibilities.
+
+Research & Documentation – Strong focus on detailed, reproducible, and academic-style documentation.
+
+Problem Solving – Demonstrated in developing scalable ML and robotics systems.
+
+Continuous Improvement – Applied Lean and Six Sigma for industrial process optimization.
+
+Agile Development – Experienced in Scrum-based iterative project delivery cycles.
+
+🧪 1. Title: Full Stack Test Automation for Robotics Web Dashboard
+Description: Developed an end-to-end automated testing framework for a robotics dashboard, covering UI and REST API testing with Selenium and PyTest. Integrated continuous testing into CI/CD using GitHub Actions.
+Tech Used: Selenium, PyTest, GitHub Actions, REST API, HTML Reports, CI/CD, Python
+Image URL (if available): Not provided in the resume
+
+🤖 2. Title: Optimizing Robot Navigation in Dynamic Environments
+Description: Built a deep reinforcement learning system for robot path planning and collision avoidance using simulated human movement. Implemented DQN with PER and A2C in a dynamic 10x10 space using RVO2 and ORCA policies.
+Tech Used: Python, Deep RL, RVO2, ORCA, DQN, A2C, Simulation, Reinforcement Learning
+Image URL (if available): Not provided in the resume
+
+🏎️ 3. Title: F1 Tenth Grand Prix Autonomous Vehicle Simulation
+Description: Designed autonomous racing algorithms for the F1Tenth platform, focusing on obstacle avoidance, path planning, and real-time localization using ROS2 and SLAM methods.
+Tech Used: ROS2, Gap Follow, RRT, Pure Pursuit, SLAM, Python
+Image URL (if available): Not provided in the resume
+
+🛡️ 4. Title: Industrial PPE Detection System
+Description: Built an 8-class PPE detection system using YOLOv8 and Roboflow. Integrated real-time alerts and live video prediction compatible with CCTV, improving precision and recall over baseline.
+Tech Used: YOLOv8, Roboflow, Ultralytics, Python, Computer Vision, Deep Learning
+Image URL (if available): Not provided in the resume
+
+🧭 5. Title: Mobile Robot Navigation in Indoor Environment
+Description: Led a team in developing a mobile robot using Arduino, ultrasonic sensors, and IMU for 360° obstacle detection. Implemented Kalman filtering for accurate localization and visualized navigation with Python.
+Tech Used: Arduino, Ultrasonic Sensors, IMU, Kalman Filter, Bluetooth, Python, Turtle Graphics
+Image URL (if available): Not provided in the resume
+
+Name: Dr. John Smith
+Title/Relationship: Professor of Robotics & Research Advisor, University at Buffalo
+Date: July 18, 2025
+Recommendation Text:
+"I’ve had the pleasure of working with Hariharan as his research advisor during his Master’s program in Engineering Science – Robotics. His work ethic, creativity, and technical acumen in reinforcement learning and robotics systems are outstanding. Hariharan consistently demonstrated deep understanding in deploying scalable ML pipelines and designing autonomous systems with real-world applicability. His proactive problem-solving skills and ability to deliver high-quality results make him an asset to any research or engineering team."
+
