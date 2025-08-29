@@ -151,7 +151,3 @@ I'm a passionate **Robotics Engineer** and **Graduate Research Assistant** at th
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariharan2302&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
